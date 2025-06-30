@@ -1,0 +1,17 @@
+🔍 Key Features
+- Slicers for each month (Jan–Dec) to filter data dynamically
+- Cards displaying:
+- Total Sale: 308M
+- Transactions: 2K
+- Total Units Sold: 8K
+- Average Sale: 40.6K
+  
+📈 Visual Insights Include:
+- Line Chart: Total Quantity by Month
+- Map: Total Sales by City across India
+- Funnel: Customer Ratings (1 to 5 stars)
+- Area Chart: Total Quantity by Day Name
+- Clustered Bar Chart: Total Sale by Brand (Apple, OnePlus, Samsung)
+- Pie Chart: Transactions by Payment Method (Credit Card, UPI, Debit Card, Cash)
+- Donut Chart: Sum of Units Sold by Brand
+- Ribbon Chart: Total Quantity by Brand
