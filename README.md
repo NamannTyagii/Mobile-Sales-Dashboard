@@ -9,7 +9,7 @@ An interactive dashboard built in Power BI to analyze mobile sales performance a
 - Built-in interactivity for dynamic insights
 
 ## 📁 Files
-- `appleDashboard.pbix` – Main Power BI file
+- `apple Dashboard.pbix` – Main Power BI file
 - `firstdashboard.png` – Preview of the dashboard
 
 ## 🔗 Connect with me
